@@ -220,19 +220,19 @@ TDateTime CalcFutureSrvDate(short f_days, int vProb, int dist_srv, int cur_prob,
 	return next_srv_date ;
 
 /*
-int wd = dist_GhgOil - (q1 - cur_GhgOil) ;
-double dst = prob / df ;
-int ost_dst = wd / dst ;
+	int wd = dist_GhgOil - (q1 - cur_GhgOil) ;
+	double dst = prob / df ;
+	int ost_dst = wd / dst ;
 
-ADOQuery1->Active = false ;
-String str1 = String("select \
-DateAdd('d'," + String(ost_dst) + ",'" + DateToStr(date_service) + "') as date_next_srv \
-from t_autofuel \
-where DateFuelling = (select max(DateFuelling) from t_autofuel where wrk_type = 1) \
-and car = " + String(curr_car) + " ;") ;
-ADOQuery1->SQL->Text = str1 ;
-ADOQuery1->Active = true ;
-return next_srv_date = ADOQuery1->FieldByName("date_next_srv")->AsString ;
+	ADOQuery1->Active = false ;
+	String str1 = String("select \
+	DateAdd('d'," + String(ost_dst) + ",'" + DateToStr(date_service) + "') as date_next_srv \
+	from t_autofuel \
+	where DateFuelling = (select max(DateFuelling) from t_autofuel where wrk_type = 1) \
+	and car = " + String(curr_car) + " ;") ;
+	ADOQuery1->SQL->Text = str1 ;
+	ADOQuery1->Active = true ;
+	return next_srv_date = ADOQuery1->FieldByName("date_next_srv")->AsString ;
 */
 }
 //---------------------------------------------------------------------------
