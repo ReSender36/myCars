@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.311,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Refuelling.cbproj=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Refuelling1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\AddSrv_Type_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.021,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Refueling_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.483,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\SourceBook_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Automobile.h=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\SourceBook.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Automobile.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\DM2_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\SourceBook.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\AddAcc_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\CarWrk_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Automobile_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.483,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\SourceBook_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Refuelling1.cbproj=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.863,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\RefuelingPr.h=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Refueling.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\SourceBook.h=D:\docs\Programming\RAD Studio XE7\C++\Development\SM\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\SourceBook.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,D:\docs\Programming\RAD Studio XE7\C++\Development\SM\Refueling.h=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AddAcc_Unit.cpp"/>
+    <File Path="AddAcc_Unit.cpp"/>
+    <File Path="AddAcc_Unit.dfm"/>
+    <File Path="AddAcc_Unit.h"/>
+    <File Path="AddSrv_Type_Unit.cpp"/>
+    <File Path="AddSrv_Type_Unit.cpp"/>
+    <File Path="AddSrv_Type_Unit.dfm"/>
+    <File Path="AddSrv_Type_Unit.h"/>
+    <File Path="Automobile_Unit.cpp"/>
+    <File Path="Automobile_Unit.cpp"/>
+    <File Path="Automobile_Unit.dfm"/>
+    <File Path="Automobile_Unit.h"/>
+    <File Path="CarWrk_Unit.cpp"/>
+    <File Path="CarWrk_Unit.cpp"/>
+    <File Path="CarWrk_Unit.dfm"/>
+    <File Path="CarWrk_Unit.h"/>
+    <File Path="DM2_Unit.cpp"/>
+    <File Path="DM2_Unit.cpp"/>
+    <File Path="DM2_Unit.dfm"/>
+    <File Path="DM2_Unit.h"/>
+    <File Path="RefuelingPr.h"/>
+    <File Path="Refueling_Unit.cpp"/>
+    <File Path="Refueling_Unit.cpp"/>
+    <File Path="Refueling_Unit.dfm"/>
+    <File Path="Refueling_Unit.h"/>
+    <File Path="Refuelling.cpp"/>
+    <File Path="SourceBook_Unit.cpp"/>
+    <File Path="SourceBook_Unit.cpp"/>
+    <File Path="SourceBook_Unit.h"/>
+    <File Path="Automobile.cpp"/>
+    <File Path="Automobile.cpp"/>
+    <File Path="Automobile.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
